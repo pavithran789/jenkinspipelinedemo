@@ -19,12 +19,12 @@
         }
         stage('test') {
             steps {
-                echo 'testing new'
+                echo 'testing new1'
             }
         }
         stage('release') {
             steps {
-                echo 'release new '
+                echo 'release new1 '
             }
         }
     }
