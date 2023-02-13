@@ -14,7 +14,7 @@
         }
         stage('deploy') {
             steps {
-                echo 'deploying new'
+                echo 'deploying new1'
             }
         }
         stage('test') {
